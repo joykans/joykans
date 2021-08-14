@@ -20,7 +20,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/Joy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/JoyKans)
-[![Website Badge](https://img.shields.io/badge/WebSite-Joy-yellow)](https://www.Renuka.me)
+[![Website Badge](https://img.shields.io/badge/WebSite-Joy-yellow)](https://www.Joykans.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Joy-blue)](https://stackoverflow.com/users/16351154/joykans?tab=profile)
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in C, JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
